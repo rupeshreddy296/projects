@@ -33,4 +33,4 @@ The application dynamically updates results as the user inputs grades and credit
 
 💻 Installation & Usage
 
-1. Clone the repository:
+1. Clone the repository: https://www.cgpa.app/?utm_source
